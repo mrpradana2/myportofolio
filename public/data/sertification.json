@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Applied Microsoft Office",
+    "publisher": "Turst Training Partners",
+    "year": "Maret 2024",
+    "exp": "Selamanya",
+    "path": {
+      "mainPath": "../public/img/sertification/ms-office/ms-001.jpeg",
+      "secPath": "../public/img/sertification/ms-office/ms-002.jpeg"
+    }
+  },
+  {
+    "title": "Associate Wealth Planner",
+    "publisher": "Financial Planning Standard Boards Indonesia",
+    "year": "Mei 2024",
+    "exp": "Selamanya",
+    "path": {
+      "mainPath": "../public/img/sertification/awp/awp-001.png",
+      "secPath": "../public/img/sertification/awp/awp-002.png"
+    }
+  },
+  {
+    "title": "Sertikfikat Kompetensi Akutansi",
+    "publisher": "SMK YPE Nusantara Slawi",
+    "year": "April 2020",
+    "exp": "Selamanya",
+    "path": {
+      "mainPath": "../public/img/sertification/sertifikat-kompetensi/001.png",
+      "secPath": "../public/img/sertification/sertifikat-kompetensi/002.png"
+    }
+  }
+]
