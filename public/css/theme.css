@@ -146,7 +146,7 @@ footer.blue-theme {
     -2px 0 3px 1px #428eff !important;
 }
 
-.btn.theme-blue {
+.btn.blue-theme {
   background-color: var(--blue-pastel) !important;
   box-shadow: 2px -2px 3px 1px #63a2ff inset, 2px -2px 1px 1px #2458a7,
     1px -1px 4px 2px #4d6d9c !important;
