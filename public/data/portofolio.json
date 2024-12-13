@@ -6,13 +6,13 @@
         "type": "Microsoft Excel",
         "title": "Interactive Chart",
         "url": "https://docs.google.com/spreadsheets/d/1J4xXummfD7GVqVbok9KT8EIJ-0ARAkUi/edit?usp=sharing&ouid=112512520910862751965&rtpof=true&sd=true",
-        "imgPath": "../public/img/portofolio/microsoft-excel/001.png"
+        "imgPath": "/public/img/portofolio/microsoft-excel/001.png"
       },
       {
         "type": "Microsoft Excel",
         "title": "Data VIsualization",
         "url": "https://docs.google.com/spreadsheets/d/187EwcLhS6LO9LwWMHpjeCQNiPN6B7mpR/edit?usp=sharing&ouid=112512520910862751965&rtpof=true&sd=true",
-        "imgPath": "../public/img/portofolio/microsoft-excel/002.png"
+        "imgPath": "/public/img/portofolio/microsoft-excel/002.png"
       }
     ]
   },
@@ -23,19 +23,19 @@
         "type": "Data Analysis",
         "title": "Google Looker Studio",
         "url": "https://lookerstudio.google.com/reporting/aead965d-9c7a-4702-9580-36cb65f5fb2c",
-        "imgPath": "../public/img/portofolio/data-analysis/001.png"
+        "imgPath": "/public/img/portofolio/data-analysis/001.png"
       },
       {
         "type": "Data Analysis",
         "title": "Google Looker Studio",
         "url": "https://lookerstudio.google.com/reporting/f46f7025-3590-4a9c-9077-40e1c833a822",
-        "imgPath": "../public/img/portofolio/data-analysis/002.png"
+        "imgPath": "/public/img/portofolio/data-analysis/002.png"
       },
       {
         "type": "Data Analysis",
         "title": "Google Looker Studio",
         "url": "https://lookerstudio.google.com/reporting/6b10cf82-5a89-4eba-9cc9-0cd823234b5e",
-        "imgPath": "../public/img/portofolio/data-analysis/003.png"
+        "imgPath": "/public/img/portofolio/data-analysis/003.png"
       }
     ]
   },
@@ -46,43 +46,43 @@
         "type": "Graphic Design",
         "title": "Instagram Feed Design",
         "url": "https://www.instagram.com/p/Cbm7lqjvKiE/?igsh=MXJuMWpheG1vZGd3bg==",
-        "imgPath": "../public/img/portofolio/grapich-design/001.png"
+        "imgPath": "/public/img/portofolio/grapich-design/001.png"
       },
       {
         "type": "Graphic Design",
         "title": "Instagram Feed Design",
         "url": "https://www.instagram.com/p/CbfnGSBPtxI/?igsh=ajNiNmliMWJ4NTNr",
-        "imgPath": "../public/img/portofolio/grapich-design/002.png"
+        "imgPath": "/public/img/portofolio/grapich-design/002.png"
       },
       {
         "type": "Graphic Design",
         "title": "Instagram Feed Design",
         "url": "https://www.instagram.com/p/CXx_O3QlZ-H/?igsh=eHk1Ynd4ODU4eGVp",
-        "imgPath": "../public/img/portofolio/grapich-design/003.png"
+        "imgPath": "/public/img/portofolio/grapich-design/003.png"
       },
       {
         "type": "Graphic Design",
         "title": "Instagram Feed Design",
         "url": "https://www.instagram.com/p/CPnnsUCAXp3/?igsh=MWJyc29kNml1bWhidQ==",
-        "imgPath": "../public/img/portofolio/grapich-design/004.png"
+        "imgPath": "/public/img/portofolio/grapich-design/004.png"
       },
       {
         "type": "Graphic Design",
         "title": "Instagram Feed Design",
         "url": "https://www.instagram.com/p/CdCTeYEvMhI/?igsh=MTM3bzFuYnhtY3J4dg==",
-        "imgPath": "../public/img/portofolio/grapich-design/005.png"
+        "imgPath": "/public/img/portofolio/grapich-design/005.png"
       },
       {
         "type": "Graphic Design",
         "title": "Instagram Feed Design",
         "url": "https://www.instagram.com/p/CcmIkYQPuo7/?igsh=dHF6ZTE1MDI0aDkx",
-        "imgPath": "../public/img/portofolio/grapich-design/006.png"
+        "imgPath": "/public/img/portofolio/grapich-design/006.png"
       },
       {
         "type": "Graphic Design",
         "title": "Design ID Card",
         "url": "https://drive.google.com/file/d/1KwdS7j5GGI0sqHsiNpN6Bg2eS_yUa2-N/view?usp=sharing",
-        "imgPath": "../public/img/portofolio/grapich-design/007.png"
+        "imgPath": "/public/img/portofolio/grapich-design/007.png"
       }
     ]
   },
