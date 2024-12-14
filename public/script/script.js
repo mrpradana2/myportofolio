@@ -185,7 +185,7 @@ const contentCardsPhoto = (listPort) => {
                 <img src="${listPort.imgPath}" alt="img-card"/>
                 <p>${listPort.title}</p>
               <a href="${listPort.url}">
-                <button class="btn theme-blue mt-3">Lihat</button>
+                <button class="btn blue-theme mt-3">Lihat</button>
               </a>
             </div>`;
 };
@@ -200,7 +200,7 @@ const contentCardsVideo = (listPort) => {
               </iframe>
               <p>${listPort.title}</p>
               <a href="${listPort.url}">
-                <button class="btn theme-blue mt-3">Lihat</button>
+                <button class="btn blue-theme mt-3">Lihat</button>
               </a>
             </div>`;
 };
